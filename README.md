@@ -7,7 +7,7 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 ## Have a Java SDK
 
 ```shell script
-  brew reinstall openjdk
+  brew install openjdk
   sudo ln -sfn /opt/homebrew/opt/openjdk@21/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk-21.jdk
 ``` 
 
